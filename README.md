@@ -19,4 +19,4 @@ I bring a people-first approach to technical leadership, focusing on mentorship,
 ### Connect
 [LinkedIn](https://www.linkedin.com/in/rynmitchell/)
 
-*Currently Senior Web Developer & Technical Lead at EverCommerce, focused on crafting scalable converting solutions and mentoring the next generation of developers.
+*Currently Manager of Web Development and AI Automation at EverCommerce, focused on crafting scalable marketing solutions and mentoring the next generation of developers.
